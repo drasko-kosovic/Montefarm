@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Montefarm.iml" filepath="$PROJECT_DIR$/.idea/Montefarm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/getaway/getaway.iml" filepath="$PROJECT_DIR$/getaway/getaway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getaway-test/izlaz.iml" filepath="$PROJECT_DIR$/getaway-test/izlaz.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro/micro.iml" filepath="$PROJECT_DIR$/micro/micro.iml" />
     </modules>
   </component>

@@ -3,8 +3,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/getaway/pom.xml" />
         <option value="$PROJECT_DIR$/micro/pom.xml" />
+        <option value="$PROJECT_DIR$/getaway-test/pom.xml" />
       </list>
     </option>
   </component>
