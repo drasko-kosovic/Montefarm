@@ -1,0 +1,16 @@
+commonLabels:
+  app.kubernetes.io/genereted-by: JHipster
+
+resources:
+  # Individual apps
+  - izlaz-k8s/izlaz-deployment.yml
+  - izlaz-k8s/izlaz-service.yml
+  - izlaz-k8s/izlaz-postgresql.yml
+  - servis-k8s/servis-deployment.yml
+  - servis-k8s/servis-service.yml
+  - servis-k8s/servis-postgresql.yml
+  # service discovery eureka/consul
+  - registry-k8s/jhipster-registry.yml
+  - registry-k8s/application-configmap.yml
+
+patchesJson6902:
